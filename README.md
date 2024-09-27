@@ -16,11 +16,15 @@ A project developed with Spring Boot that focuses on building an efficient, scal
 
 🔗 [UberApp Repository](https://github.com/adsingh2602/UberApp)
 
+### LinkedIn
+A professional networking platform inspired by LinkedIn, built with Spring Boot. This project enables users to create profiles, manage connections, and share updates, emphasizing an engaging user experience.
+🔗 [LinkedIn Repository](https://github.com/adsingh2602/LinkedIn.git)
+
 ## 🌱 What I'm Learning
-Currently diving deeper into **Spring Boot** and **Flutter** to expand my backend development skills and enhance my mobile app development capabilities.
+Currently diving deeper into **Spring Boot** to expand my backend development skills and enhance my mobile app development capabilities.
 
 ## 💬 Let’s Connect
-[LinkedIn]( https://www.linkedin.com/in/amardeep-singh-90653823a/) | [Email](amardeepsingh2602@gmail.com)
+[LinkedIn]( https://www.linkedin.com/in/amardeep-singh-90653823a/) | [Email](amardeepsingh2602@gmail.com) 
 
 
 
