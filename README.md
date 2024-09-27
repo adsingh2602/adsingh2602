@@ -18,6 +18,7 @@ A project developed with Spring Boot that focuses on building an efficient, scal
 
 ### LinkedIn
 A professional networking platform inspired by LinkedIn, built with Spring Boot. This project enables users to create profiles, manage connections, and share updates, emphasizing an engaging user experience.
+
 🔗 [LinkedIn Repository](https://github.com/adsingh2602/LinkedIn.git)
 
 ## 🌱 What I'm Learning
