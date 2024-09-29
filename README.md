@@ -25,7 +25,7 @@ A professional networking platform inspired by LinkedIn, built with Spring Boot.
 Currently diving deeper into **Spring Boot** to expand my backend development skills and enhance my mobile app development capabilities.
 
 ## 💬 Let’s Connect
-[LinkedIn]( https://www.linkedin.com/in/amardeep-singh-90653823a/) | [Email](amardeepsingh2602@gmail.com) 
+[LinkedIn]( https://www.linkedin.com/in/amardeep-singh-90653823a/) | [Email](amardeepsingh2602@gmail.com) | [Contact](7078768150)
 
 
 
