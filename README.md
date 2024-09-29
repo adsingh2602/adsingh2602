@@ -6,8 +6,8 @@
 
 - **Languages:** Java, Dart
 - **Frameworks:** Flutter, Spring Boot
-- **Tools:** Android Studio, Git, Firebase
-- **Other:** RESTful APIs, MySQL, GitHub Actions
+- **Tools:** Android Studio, Git, Firebase, 
+- **Other:** RESTful APIs, MySQL, GitHub Actions, Microservices, Kafka, Redis
 
 ## 🚀 Projects
 
