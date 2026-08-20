@@ -47,7 +47,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [NeuroCards – AI-Powered Flashcard Learning Platform](https://github.com/adsingh2602/neurocards)
+### 🧠 [NeuroCards – AI-Powered Flashcard Learning Platform](https://neurocards-iota.vercel.app/login)
 AI-driven learning platform using spaced repetition to improve retention. Generates flashcards automatically from uploaded PDFs and study material.
 `Spring Boot` `Spring AI` `React` `JWT`
 
